@@ -9,7 +9,7 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 
 
 # Sommaire des fonctionnalités
-- [Interactions de peinture différentes](#interactions-de-peinture-diffrentes)
+- [Interactions de peinture différentes](#interactions-de-peinture-différentes)
 - [Palette de couleurs](#palette-de-couleurs)
 - [Selection d'outil souhaité en l'attrapant](#selection-doutil-souhaité-en-lattrapant)
 - [Fonctionnalité supplementaire](#fonctionnalité-supplementaire)
