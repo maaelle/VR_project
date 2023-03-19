@@ -82,7 +82,7 @@ Fonctionnement général :
 * [Village principal](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410)
 * [Table pour poser les outils](https://assetstore.unity.com/packages/3d/props/wooden-pbr-table-112005)
 
-[*(Back to top)*](#sommaire-des-fonctionnalits)
+[(Back to top)](#sommaire-des-fonctionnalits)
 
 
 
