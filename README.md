@@ -11,8 +11,8 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 # Sommaire des fonctionnalités
 - [Interactions de peinture différentes](#interactions-de-peinture-diffrentes)
 - [Palette de couleurs](#palette-de-couleurs)
-- [Selection d'outil souhaité en l'attrapant](#selection-doutil-souhait-en-lattrapant)
-- [Fonctionnalité supplementaire](#fonctionnalit-supplementaire)
+- [Selection d'outil souhaité en l'attrapant](#selection-doutil-souhaité-en-lattrapant)
+- [Fonctionnalité supplementaire](#fonctionnalité-supplementaire)
 
 ## Interactions de peinture différentes
 [*(Back to top)*](#sommaire-des-fonctionnalités)
