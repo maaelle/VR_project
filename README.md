@@ -15,7 +15,7 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 - [Fonctionnalité supplementaire](#fonctionnalit-supplementaire)
 
 ## Interactions de peinture différentes
-[*(Back to top)*](#table-of-contents)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 | Démonstration | Explication |
 |---------|---------|
@@ -25,7 +25,7 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 
 
 ## Palette de couleurs 
-[*(Back to top)*](#table-of-contents)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 | Démonstration | Explication |
 |---------|---------|
@@ -34,10 +34,11 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 
 
 ## Selection d'outil souhaité en l'attrapant 
-[*(Back to top)*](#table-of-contents)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 ## Mini-jeu permettant de reproduire le dessin
-[(Back to top)](#table-of-contents)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
+
 
 Le mini-jeu permet de reproduire le dessin d'un tableau et obtenir un score de ressemblance. Pour obtenir ce score, le programme va comparer les 2 textures en calculant la différence de chaque canal de couleur (R, V, B et Alpha) pour chaque pixel, puis en calculant la moyenne de toutes les différences. 
 
@@ -57,7 +58,7 @@ Fonctionnement général :
 
 
 ## Fonctionnalité supplementaire 
-[*(Back to top)*](#table-of-contents)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
 | Démonstration | Explication |
@@ -82,7 +83,7 @@ Fonctionnement général :
 * [Village principal](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410)
 * [Table pour poser les outils](https://assetstore.unity.com/packages/3d/props/wooden-pbr-table-112005)
 
-[(Back to top)](#sommaire-des-fonctionnalités)
+[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
 
