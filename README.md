@@ -3,15 +3,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Le projet de peinture effectué dans le cadre du projet de la derniere année pour le module de vision et réalité augmentée. Il s'agit d'une expérience immersive de peinture en réalité virtuelle. Les joueurs peuvent se téléporter dans un atelier virtuel et utiliser différents outils pour peindre des œuvres d'art numériques. 
+Ce projet est effectué dans le cadre du projet de dernière année pour le module de vision et réalité augmentée. Il s'agit d'une expérience immersive de peinture en réalité virtuelle. Les joueurs peuvent se téléporter dans un atelier virtuel et utiliser différents outils pour peindre des œuvres d'art numériques. 
 
-*Le rendu de ce projet est prevu pour le 20/03/2023.*
+*Le rendu de ce projet est prévu pour le 20/03/2023.*
 
 
 # Sommaire des fonctionnalités
 - [Interactions de peinture différentes](#interactions-de-peinture-différentes)
 - [Palette de couleurs](#palette-de-couleurs)
-- [Selection d'outil souhaité en l'attrapant](#selection-doutil-souhaité-en-lattrapant)
+- [Gestion de la sélection des outils](#selection-doutil-souhaité-en-lattrapant)
 - [Fonctionnalité supplementaire](#fonctionnalité-supplementaire)
 
 ## Interactions de peinture différentes
@@ -33,21 +33,21 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 | ![alt text 2](GitImage/) | **Couleurs** : Choix des couleurs|
 
 
-## Selection d'outil souhaité en l'attrapant 
+## Gestion de la sélection des outils
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
 | Démonstration | Explication |
 |---------|---------|
-| ![alt text 1](GitImage/rangementPinceau.gif) | **Gestion chute pinceau** : pour ajouter plus de confort de jeu, si l'utilisateur lâche son pinceau celui-ci revienne à sa place (sur la table), cela est possible grâce au script "StoreTool"|
+| ![alt text 1](GitImage/rangementPinceau.gif) | **Gestion chute outil** : pour ajouter plus de confort de jeu, si l'utilisateur lâche son pinceau celui-ci revient automatiquement à sa place initiale (sur la table), cela est possible grâce au script "StoreTool".|
 
 
 ## Mini-jeu permettant de reproduire le dessin
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
-Le mini-jeu permet de reproduire le dessin d'un tableau et obtenir un score de ressemblance. Pour obtenir ce score, le programme va comparer les 2 textures en calculant la différence de chaque canal de couleur (R, V, B et Alpha) pour chaque pixel, puis en calculant la moyenne de toutes les différences. 
+Le mini-jeu permet de reproduire le dessin d'un tableau et d'obtenir un score de ressemblance. Pour obtenir ce score, le programme va comparer les 2 textures en calculant la différence de chaque canal de couleur (R, V, B et Alpha) pour chaque pixel, puis en calculant la moyenne de toutes les différences. 
 
-Fonctionnement général :
+**Fonctionnement général :**
 ```mermaid
  graph LR
     Hit_Shield --> Convert_Format_To_Texture
@@ -57,8 +57,8 @@ Fonctionnement général :
 ``` 
 | Démonstration | Explication |
 |---------|---------|
-| ![alt text 1](GitImage/teleportation.gif) | **Téléportation** : Sélectionner le rocher magique pour vous téléporter dans l'atelier, ou l'armoire magique pour retourner dans le monde originel|
-| ![alt text 2](GitImage/) | **Taille du pinceau** : Peinture, possibilité de changer la taille (avec les pinceau accroché au mur à gauche) et la couleur du pinceau (palette)|
+| ![alt text 1](GitImage/teleportation.gif) | **Téléportation** : Sélectionner le rocher magique pour vous téléporter dans l'atelier, ou l'armoire magique pour retourner dans le monde de base.|
+| ![alt text 2](GitImage/taillePinceau.gif) | **Taille du pinceau** : Peinture, possibilité de changer la taille (avec les pinceau accroché au mur à gauche).|
 | ![alt text 2](GitImage/dessin_pomme.png) | **Score** : Dessiner une pomme puis sélectionner le bouclier magique pour obtenir votre score de ressemblance en pourcentage. |
 
 
@@ -68,7 +68,7 @@ Fonctionnement général :
 
 | Démonstration | Explication |
 |---------|---------|
-| ![alt text 1](GitImage/renard.gif) | **Renard** : parce que c'est trop mignon !! Regardez le faire ces petites roulades|
+| ![alt text 1](GitImage/renard.gif) | **Renard** : Parce que c'est trop mignon !! Regardez le faire ces petites roulades.|
 
 
 
