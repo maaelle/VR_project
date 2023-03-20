@@ -36,6 +36,11 @@ Le projet de peinture effectué dans le cadre du projet de la derniere année po
 ## Selection d'outil souhaité en l'attrapant 
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
+| Démonstration | Explication |
+|---------|---------|
+| ![alt text 1](GitImage/rangementPinceau.gif) | **Gestion chute pinceau** : pour ajouter plus de confort de jeu, si l'utilisateur lâche son pinceau celui-ci revienne à sa place (sur la table), cela est possible grâce au script "StoreTool"|
+
+
 ## Mini-jeu permettant de reproduire le dessin
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
